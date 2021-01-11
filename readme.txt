@@ -1,3 +1,3 @@
 git git git 
-我在学习使用git
-我刚刚修改了readme
+i'm learning git
+i just changed this file
